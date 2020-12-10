@@ -3,3 +3,4 @@
 # only HTML buttons sorce code
 # containing animation, gif,vectoe used this
 # Add any more...
+# <input type="button"> elements have no default behavior (their cousins, <input type="submit"> and <input type="reset"> are used to submit and reset forms, respectively). To make buttons do anything, you have to write JavaScript code to do the work.
