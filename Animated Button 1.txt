@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title> BUTTON </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .button {
@@ -51,4 +52,4 @@
 <br> 
 <center><p> Creater By <b> Sanusanth </b> </p> </center>
 </body>
-</html>
+</html> 
